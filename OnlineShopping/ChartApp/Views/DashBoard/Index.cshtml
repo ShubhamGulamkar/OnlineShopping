@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Dashboard Page";
+}
+
+<a href="/Home/Index">Home</a>
+<hr/>
+
+<div>
+    <h2>Business Intelligence</h2>
+    <div>
+     <div> PI Chart
+        @Html.Partial("./piechart");
+     </div>
+        <hr/>
+    <div>Bar Chart
+         @Html.Partial("./barchart");
+    </di>
+    </div>
+    <!--<div>Org Chart
+         @Html.Partial("./orgchart 1");
+    </di>
+    </div>-->
+  
+ 
+</div>

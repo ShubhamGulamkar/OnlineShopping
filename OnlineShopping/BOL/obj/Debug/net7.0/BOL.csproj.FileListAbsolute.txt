@@ -1,0 +1,12 @@
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BOL\bin\Debug\net7.0\BOL.deps.json
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BOL\bin\Debug\net7.0\BOL.dll
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BOL\bin\Debug\net7.0\BOL.pdb
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BOL\obj\Debug\net7.0\BOL.dll
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BOL\obj\Debug\net7.0\refint\BOL.dll
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BOL\obj\Debug\net7.0\BOL.pdb
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BOL\obj\Debug\net7.0\ref\BOL.dll

@@ -1,0 +1,40 @@
+﻿@using BOL;
+@{
+    ViewData["Title"] = "Login Page";
+}
+
+
+@{Product product = ViewBag.currentProduct as Product;
+
+<h3>Beautiful Flower Detalis</h3>
+<hr/>
+
+<p>Id:@product.ProductId</p>
+<p>Title:@product.Title</p>
+<p>Description:@product.Description</p>
+<p>Unit Price:@product.UnitPrice Rs.</p>
+<p>Stock Available:@product.StockAvailable</p>
+
+<a href="/shoppingcart/addtocart/@product.ProductId">Add to Cart</a>
+
+}
+
+<!--<a Id=12/>
+<img src="/image/Gerbera.jpg" width="100" height="100"/>
+<p>Id:12</p>
+<p>Title:Gerbera</p>
+<p>Description:Wedding Flower</p>
+<p>Unit Price:12 Rs.</p>
+<p>Stock Available:56000</p>
+<hr/>
+
+
+<a Id=13/>
+<img src="/image/Rose.jpg" width="100" height="100"/>
+<p>Id:13</p>
+<p>Title:Rose</p>
+<p>Description:Hot Flower</p>
+<p>Unit Price:110 Rs.</p>
+<p>Stock Available:750000</p>-->
+
+

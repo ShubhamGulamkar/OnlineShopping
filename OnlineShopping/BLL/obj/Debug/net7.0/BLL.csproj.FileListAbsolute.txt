@@ -1,0 +1,17 @@
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BLL\bin\Debug\net7.0\BLL.dll
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BLL\bin\Debug\net7.0\BLL.pdb
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BLL\bin\Debug\net7.0\BOL.dll
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BLL\bin\Debug\net7.0\DAL.dll
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BLL\bin\Debug\net7.0\BOL.pdb
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BLL\bin\Debug\net7.0\DAL.pdb
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BLL\obj\Debug\net7.0\BLL.dll
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BLL\obj\Debug\net7.0\BLL.pdb
+D:\DOTNET_API\MVC_PROJECT\OnlineShopping\BLL\obj\Debug\net7.0\ref\BLL.dll
